@@ -61,7 +61,7 @@ const services = [
     icon: frontend,
   },
   {
-    title: 'Consultante IoT',
+    title: 'IoT Consultant',
     icon: backend,
   },
   
@@ -141,7 +141,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Consultante IoT',
+    title: 'IoT Consultant',
     company_name: 'FabLab UVCI',
     icon: coverhunt,
     iconBg: '#333333',
